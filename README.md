@@ -6,8 +6,8 @@ How were the attackers able to exploit the vulnerability?
 Were there security measures that could have been taken in order to prevent this attack?
 
                                                                                     
-                                                                                    Ukraine Ransomware
-                                                                            Resource (https://www.bbc.com/news/technology-40428967)
+  Ukraine Ransomware
+  Resource (https://www.bbc.com/news/technology-40428967)
 
 
 The Ukraine ransomware was a malware attack with worm-like properties, hackers were able to gain access into many companies by hacking into the MEDoc’s software updates and sending out corrupted updates to clients. The software’s automatic update system was compromised and used to download and run malware instead of the updates for the software.  
@@ -20,9 +20,8 @@ Some security measures that could have been taken to prevent this attack was tha
 
 
 
-
-                                                                                Cyberattack on Yahoo in 2014
-    Resources(https://techmonitor.ai/technology/biggest-cyberattacks-in-history ; https://en.wikipedia.org/wiki/Yahoo!_data_breaches; https://www.reuters.com/article/us-yahoo-cyber/yahoo-says-hackers-stole-data-from-500-million-accounts-in-2014-idUSKCN11S16P)
+Cyberattack on Yahoo in 2014
+Resources(https://techmonitor.ai/technology/biggest-cyberattacks-in-history ; https://en.wikipedia.org/wiki/Yahoo!_data_breaches; https://www.reuters.com/article/us-yahoo-cyber/yahoo-says-hackers-stole-data-from-500-million-accounts-in-2014-idUSKCN11S16P)
 
 In 2014 a latvian hacker hired by Russian agents hacked Yahoo.  Over 500 million accounts were stolen.  He was able to gain access to Yahoo’s user database and account management tool through the use of a Phishing campaign that was specifically targeted to Yahoo employees.  They stole email addresses, passwords, telephone numbers, dates of birth and names.  They did not however get into the protected passwords, or payment and bank account information.  
 
